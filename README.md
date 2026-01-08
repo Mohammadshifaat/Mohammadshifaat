@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+BCA Student at Dezyne École College | Aspiring Frontend Developer | Passionate About Tech & Innovation
 
 
 ## 🌐 Socials:
